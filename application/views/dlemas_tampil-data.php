@@ -73,7 +73,7 @@
             </tr>
             <br>
             <tr>
-                <td colspan="3" align="right">
+                <td colspan="3" align="center">
                     <a href="<?= base_url('Dilemas');
                     ?>">Kembali</a>
                 </td>
